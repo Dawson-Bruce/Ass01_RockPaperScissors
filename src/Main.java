@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        // Declare variable and while loop used for game continuation
         String newGame = "";
         do {
             // Declare variables
